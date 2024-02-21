@@ -1,0 +1,18 @@
+.landing-btn {
+  font-weight: 500 !important ;
+  border-radius: 20px !important ;
+  font-size: 2rem !important ;
+  color: white !important ;
+}
+
+.landing-btn:hover {
+  background-color: #2A65FF !important ;
+  border-color: #2A65FF !important ;
+  color: white !important ;
+  border-width: 2.5px !important ;
+  transition: 0.3s all;
+}
+
+.landing-btn-secondary {
+  background-color: #2C33DD !important ;
+}

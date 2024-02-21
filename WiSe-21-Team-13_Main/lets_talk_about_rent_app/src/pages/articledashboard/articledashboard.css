@@ -1,0 +1,10 @@
+.dashboard-title {
+    position: relative;
+    top : -100px;
+    color: #FFFFFF;
+}
+
+.dashboard-feed {
+    position: relative;
+    top: -90px;
+}

@@ -1,0 +1,13 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+#root {
+    background-color: #f5f5f4;
+}
+
+#root>div>div {
+    min-height: 100vh;
+    height: 100%;
+}
